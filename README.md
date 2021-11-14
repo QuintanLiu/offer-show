@@ -5,4 +5,4 @@
 
 [offer05：字符串替换](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer05/%E5%89%91%E6%8C%87offer%2005%EF%BC%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9B%BF%E6%8D%A2.md)
 
-
+[offer06：从尾到头打印链表](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer06/%E5%89%91%E6%8C%87offer%2006%EF%BC%9A%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
