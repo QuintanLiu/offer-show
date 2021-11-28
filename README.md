@@ -11,3 +11,5 @@
 
 [offer 08：二叉树的下一个节点](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer08/%E5%89%91%E6%8C%87offer%2008%EF%BC%9A%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 
+[offer 09：两个栈实现队列](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer09/%E5%89%91%E6%8C%87offer%2009%EF%BC%9A%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%98%9F%E5%88%97.md)
+
