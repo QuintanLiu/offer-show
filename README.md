@@ -8,3 +8,6 @@
 [offer06：从尾到头打印链表](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer06/%E5%89%91%E6%8C%87offer%2006%EF%BC%9A%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
 
 [offer 07：重建二叉树](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer07/%E5%89%91%E6%8C%87offer%2007%EF%BC%9A%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
+[offer 08：二叉树的下一个节点](https://github.com/QuintanLiu/offer-show/blob/master/src/main/java/com/kunkun/offer/show/offer08/%E5%89%91%E6%8C%87offer%2008%EF%BC%9A%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+
